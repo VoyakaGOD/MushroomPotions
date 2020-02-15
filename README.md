@@ -1,0 +1,2 @@
+# MushroomPotions
+mod for Terraria
